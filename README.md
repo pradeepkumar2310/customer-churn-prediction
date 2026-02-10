@@ -33,6 +33,10 @@ By predicting churn early, companies can take preventive actions to retain custo
 ## 📈 Model Output
 The model predicts whether a customer is likely to churn or not based on input features.
 
+## Results
+The Logistic Regression model achieved 100% accuracy on the test dataset.
+Due to the small dataset size, results are illustrative and intended for learning purposes.
+
 ## ▶️ How to Run
 ```bash
 python Churn_proj.py
