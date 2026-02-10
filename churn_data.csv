@@ -1,0 +1,31 @@
+CustomerID,Tenure (Months),MonthlyCharges,Contract,PaymentMethod,Churn
+C001,1,950,Month-to-month,UPI,Yes
+C002,3,850,Month-to-month,Credit Card,Yes
+C003,6,700,Month-to-month,Debit Card,No
+C004,12,650,One year,Credit Card,No
+C005,24,550,Two year,Bank Transfer,No
+C006,2,900,Month-to-month,UPI,Yes
+C007,18,600,One year,Credit Card,No
+C008,4,820,Month-to-month,Debit Card,Yes
+C009,30,500,Two year,Bank Transfer,No
+C010,10,720,One year,Credit Card,No
+C011,5,880,Month-to-month,UPI,Yes
+C012,36,480,Two year,Bank Transfer,No
+C013,8,760,Month-to-month,Debit Card,Yes
+C014,15,610,One year,Credit Card,No
+C015,20,580,Two year,Bank Transfer,No
+C016,2,910,Month-to-month,UPI,Yes
+C017,7,790,Month-to-month,Debit Card,Yes
+C018,25,540,Two year,Bank Transfer,No
+C019,14,630,One year,Credit Card,No
+C020,9,750,Month-to-month,UPI,Yes
+C021,28,520,Two year,Bank Transfer,No
+C022,16,620,One year,Credit Card,No
+C023,3,870,Month-to-month,Debit Card,Yes
+C024,11,700,One year,Credit Card,No
+C025,22,560,Two year,Bank Transfer,No
+C026,6,810,Month-to-month,UPI,Yes
+C027,19,590,Two year,Bank Transfer,No
+C028,4,840,Month-to-month,Debit Card,Yes
+C029,13,640,One year,Credit Card,No
+C030,1,980,Month-to-month,UPI,Yes
